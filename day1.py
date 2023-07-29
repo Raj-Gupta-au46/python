@@ -16,3 +16,14 @@ print(a1+b)
 z="hi"
 print("the type of a is \n ", type(z))
 print("the type of a is \n ", type(a))
+
+#Operators is python 
+"""
++
+-
+/
+*
+%
+// - floor division operator (not give the value after written by point )
+"""
+
